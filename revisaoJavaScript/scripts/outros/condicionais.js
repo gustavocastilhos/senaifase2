@@ -59,7 +59,6 @@ function exemplosCondicionais() {
     }
 
 
-
 }
 
 export default exemplosCondicionais;
